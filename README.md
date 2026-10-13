@@ -15,6 +15,7 @@ App con tres secciones navegables mediante BottomNavigationBar:
 3. Entrar a la carpeta: `cd taller2docorte`
 4. Instalar dependencias: `flutter pub get`
 5. Ejecutar en un emulador o dispositivo: `flutter run`
+6. Si desea tambien estara el apk en `build\app\outputs\flutter-apk\app-release.apk`
 
 ## Capturas
 
